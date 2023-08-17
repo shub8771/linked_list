@@ -38,8 +38,8 @@ public class first1 {
         first1 m=new first1();
         m.addFirst(12);
         // m.display();
-        m.addFirst(14);
-        m.addFirst(15);
+        m.addFirst(13);
+        m.addFirst(17);
         m.addFirst(16);
         m.display();
     }
